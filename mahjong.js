@@ -1,7 +1,7 @@
 /*
-麻雀向聴計算 -Mahjong Shanten Calculator- ver0.0.1
+簡易仮想麻雀 -Virtual Riichi Mahjong- ver0.0.1
 Copyright © nkgw-marronnier 2021
-GitHub:
+GitHub: https://github.com/nkgw-marronnier
 */
 
 // 宣言
