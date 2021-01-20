@@ -1,4 +1,4 @@
-# 簡易仮想麻雀 -Virtual Riichi and Red Mahjong-
+# 簡易仮想麻雀 -Virtual Riichi Mahjong-
 
 HTML5 + Javascriptで動作する麻雀ゲーム. ルールは本家中国の麻将ではなく, 日本国内に於いて広く遊ばれている日本麻雀としている. 国際的には日本麻雀は立直麻雀(Riichi Mahjong)である. この麻雀ゲームはその日本麻雀のルールで動作するものであるので注意されたい.
 
