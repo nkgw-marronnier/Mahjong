@@ -1,0 +1,39 @@
+canvas#shantenCanvas0{
+  position: absolute;
+  padding: 0px;
+  padding-top: 0px;
+  background-color: green;
+  border:ridge 20px;
+  border-color: rgb(143, 86, 0);
+}
+canvas#shantenCanvas1{
+  position: absolute;
+  border:ridge 20px;
+  border-color: rgb(143, 86, 0);
+}
+
+canvas#shantenCanvas2{
+  position: absolute;
+  border:ridge 20px;
+  border-color: rgb(143, 86, 0);
+}
+
+canvas#shantenCanvas3{
+  position: absolute;
+  border:ridge 20px;
+  border-color: rgb(143, 86, 0);
+}
+canvas#shantenCanvas4{
+  position: absolute;
+  border:ridge 20px;
+  border-color: rgb(143, 86, 0);
+}
+canvas#shantenCanvas5{
+  position: absolute;
+  border:ridge 20px;
+  border-color: rgb(143, 86, 0);
+}
+
+div.shanten{
+  position: relative;
+}
