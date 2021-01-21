@@ -1,39 +1,63 @@
-canvas#shantenCanvas0{
+/* 得点盤等表示領域 */
+canvas#shantenCanvas0 {
   position: absolute;
   padding: 0px;
   padding-top: 0px;
   background-color: green;
-  border:ridge 20px;
-  border-color: rgb(143, 86, 0);
-}
-canvas#shantenCanvas1{
-  position: absolute;
-  border:ridge 20px;
+  border: ridge 20px;
   border-color: rgb(143, 86, 0);
 }
 
-canvas#shantenCanvas2{
+/* 自家描画領域 */
+canvas#shantenCanvas1 {
   position: absolute;
-  border:ridge 20px;
+  border: ridge 20px;
   border-color: rgb(143, 86, 0);
 }
 
-canvas#shantenCanvas3{
+/* 下家描画領域 */
+canvas#shantenCanvas2 {
   position: absolute;
-  border:ridge 20px;
-  border-color: rgb(143, 86, 0);
-}
-canvas#shantenCanvas4{
-  position: absolute;
-  border:ridge 20px;
-  border-color: rgb(143, 86, 0);
-}
-canvas#shantenCanvas5{
-  position: absolute;
-  border:ridge 20px;
+  border: ridge 20px;
   border-color: rgb(143, 86, 0);
 }
 
-div.shanten{
+/* 対面描画領域 */
+canvas#shantenCanvas3 {
+  position: absolute;
+  border: ridge 20px;
+  border-color: rgb(143, 86, 0);
+}
+
+/* 上家描画領域 */
+canvas#shantenCanvas4 {
+  position: absolute;
+  border: ridge 20px;
+  border-color: rgb(143, 86, 0);
+}
+
+/* 試合結果等描画領域 */
+canvas#shantenCanvas5 {
+  position: absolute;
+  border: ridge 20px;
+  border-color: rgb(143, 86, 0);
+}
+
+/* ゲーム総合描画領域*/
+div.shanten {
+  padding-bottom: 690px;
   position: relative;
+}
+
+/* 著作権表記 */
+div.copyright {
+  text-align: center;
+  width: 690px;
+  color: white;
+  background-color: black;
+}
+
+/* 描画領域の確保領域 */
+main {
+  display: block;
 }
