@@ -1,3 +1,22 @@
+/* ページ全体の設定 */
+html {
+  font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro",
+    "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体",
+    "メイリオ", sans-serif;
+  user-select: none;
+}
+
+/* 描画領域の確保領域 */
+main {
+  display: block;
+}
+
+/* ゲーム総合描画領域*/
+div.shanten {
+  padding-bottom: 690px;
+  position: relative;
+}
+
 /* 得点盤等表示領域 */
 canvas#shantenCanvas0 {
   position: absolute;
@@ -43,21 +62,11 @@ canvas#shantenCanvas5 {
   border-color: rgb(143, 86, 0);
 }
 
-/* ゲーム総合描画領域*/
-div.shanten {
-  padding-bottom: 690px;
-  position: relative;
-}
-
 /* 著作権表記 */
 div.copyright {
   text-align: center;
+  font-size: 14px;
   width: 690px;
   color: white;
   background-color: black;
-}
-
-/* 描画領域の確保領域 */
-main {
-  display: block;
 }
