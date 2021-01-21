@@ -41,4 +41,4 @@ HTML5 + Javascriptで動作する麻雀ゲーム. ルールは本家中国の麻
 
 このゲームのソースコード並びに画像, 音声は全て以下の著作者に権利が存在する. 許可なく複製, 改変, 二次配布, 盗用や窃用は禁ずる.
 
-Copyright © nkgw-marronnier 2021
+Copyright © 2021 nkgw-marronnier All Rights Reserved.
