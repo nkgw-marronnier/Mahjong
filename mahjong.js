@@ -868,15 +868,15 @@ function $(id) {
 // 初回読み込み時実行
 window.onload = function () {
   // HTMLより描画Canvasの取得
-  var canvas0 = $("shantenCanvas0");
+  var canvas0 = $("mahjongCanvas0");
   ctx0 = canvas0.getContext("2d");
 
   // 自家描画
-  var canvas1 = $("shantenCanvas1");
+  var canvas1 = $("mahjongCanvas1");
   ctx1 = canvas1.getContext("2d");
 
   // 南家描画
-  var canvas2 = $("shantenCanvas2");
+  var canvas2 = $("mahjongCanvas2");
   ctx2 = canvas2.getContext("2d");
   // 回転中心座標変更
   ctx2.translate(parseInt(600 / 2), parseInt(600));
@@ -884,7 +884,7 @@ window.onload = function () {
   ctx2.rotate(270 / 180 * Math.PI);
 
   // 西家描画
-  var canvas3 = $("shantenCanvas3");
+  var canvas3 = $("mahjongCanvas3");
   ctx3 = canvas3.getContext("2d");
   // 回転中心座標変更
   ctx3.translate(parseInt(600), parseInt(600 / 2));
@@ -892,7 +892,7 @@ window.onload = function () {
   ctx3.rotate(180 / 180 * Math.PI);
 
   // 北家描画
-  var canvas4 = $("shantenCanvas4");
+  var canvas4 = $("mahjongCanvas4");
   ctx4 = canvas4.getContext("2d");
   // 回転中心座標変更
   ctx4.translate(parseInt(600 / 2), 0);
@@ -900,7 +900,7 @@ window.onload = function () {
   ctx4.rotate(90 / 180 * Math.PI);
 
   // 得点表描画
-  var canvas5 = $("shantenCanvas5");
+  var canvas5 = $("mahjongCanvas5");
   ctx5 = canvas5.getContext("2d");
 
   // 描画領域のマウス判定

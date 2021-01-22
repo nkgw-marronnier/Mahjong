@@ -12,13 +12,13 @@ main {
 }
 
 /* ゲーム総合描画領域*/
-div.shanten {
+div.mahjong {
   padding-bottom: 690px;
   position: relative;
 }
 
 /* 得点盤等表示領域 */
-canvas#shantenCanvas0 {
+canvas#mahjongCanvas0 {
   position: absolute;
   padding: 0px;
   padding-top: 0px;
@@ -28,35 +28,35 @@ canvas#shantenCanvas0 {
 }
 
 /* 自家描画領域 */
-canvas#shantenCanvas1 {
+canvas#mahjongCanvas1 {
   position: absolute;
   border: ridge 20px;
   border-color: rgb(143, 86, 0);
 }
 
 /* 下家描画領域 */
-canvas#shantenCanvas2 {
+canvas#mahjongCanvas2 {
   position: absolute;
   border: ridge 20px;
   border-color: rgb(143, 86, 0);
 }
 
 /* 対面描画領域 */
-canvas#shantenCanvas3 {
+canvas#mahjongCanvas3 {
   position: absolute;
   border: ridge 20px;
   border-color: rgb(143, 86, 0);
 }
 
 /* 上家描画領域 */
-canvas#shantenCanvas4 {
+canvas#mahjongCanvas4 {
   position: absolute;
   border: ridge 20px;
   border-color: rgb(143, 86, 0);
 }
 
 /* 試合結果等描画領域 */
-canvas#shantenCanvas5 {
+canvas#mahjongCanvas5 {
   position: absolute;
   border: ridge 20px;
   border-color: rgb(143, 86, 0);
