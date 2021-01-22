@@ -273,6 +273,7 @@ function jicha_tsumo_() {
   // 描画領域初期化
   ctx1.clearRect(0, 0, 650, 650);
   drawPai();
+  jicha_kawa_();
   scoreboard();
   if (mahjong_pai.length == 0) {
     GameResult_ryukyoku();
