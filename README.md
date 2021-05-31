@@ -6,7 +6,7 @@ HTML5 + Javascriptで動作する麻雀ゲーム. ルールは本家中国の麻
 
 <p align="center">
   <a href="https://github.com/nkgw-marronnier/Mahjong/issues"><img alt="Issues" src="https://img.shields.io/github/issues/nkgw-marronnier/Mahjong?color=0088ff" /></a>
-  <a href="https://github.com/nkgw-marronnier/Mahjong/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nkgw-marronnier/Mahjong?color=00f" /></a>
+  <a href="https://github.com/nkgw-marronnier/Mahjong/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nkgw-marronnier/Mahjong?color=00ff88" /></a>
 </p>
 
 ## 推奨動作環境
