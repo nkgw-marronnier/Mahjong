@@ -4,6 +4,13 @@ HTML5 + Javascriptで動作する麻雀ゲーム. ルールは本家中国の麻
 
 [簡易仮想麻雀 -Virtual Riichi Mahjong-はこちらから](https://nkgw-marronnier.github.io/Mahjong/mahjong.html)
 
+<p align="center">
+  <a href="https://github.com/nkgw-marronnier/Mahjong/actions"><img alt="Tests Passing" src="https://github.com/nkgw-marronnier/Mahjong/workflows/Test/badge.svg" /></a>
+  <a href="https://codecov.io/gh/nkgw-marronnier/Mahjong"><img src="https://codecov.io/gh/nkgw-marronnier/Mahjong/branch/master/graph/badge.svg" /></a>
+  <a href="https://github.com/nkgw-marronnier/Mahjong/issues"><img alt="Issues" src="https://img.shields.io/github/issues/nkgw-marronnier/Mahjong?color=0088ff" /></a>
+  <a href="https://github.com/nkgw-marronnier/Mahjong/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nkgw-marronnier/Mahjong?color=0088ff" /></a>
+</p>
+
 ## 推奨動作環境
 
 推奨される動作環境は実際に動作確認がとれた環境を示している. またゲーム内では日本語が用いられているので, 日本語が使える環境であることも正常な動作を示すための必要条件である.
