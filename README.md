@@ -5,8 +5,8 @@ HTML5 + Javascriptで動作する麻雀ゲーム. ルールは本家中国の麻
 [簡易仮想麻雀 -Virtual Riichi Mahjong-はこちらから](https://nkgw-marronnier.github.io/Mahjong/mahjong.html)
 
 <p align="center">
-  <a href="https://github.com/nkgw-marronnier/Mahjong/star"><img alt="Issues" src="https://img.shields.io/github/issues/nkgw-marronnier/Mahjong?color=0088ff" /></a>
-  <a href="https://github.com/nkgw-marronnier/Mahjong/fork"><img alt="Issues" src="https://img.shields.io/github/issues/nkgw-marronnier/Mahjong?color=0088ff" /></a>
+  <a href="https://github.com/nkgw-marronnier/Mahjong/star"><img alt="Issues" src="https://img.shields.io/github/star/nkgw-marronnier/Mahjong?color=0088ff" /></a>
+  <a href="https://github.com/nkgw-marronnier/Mahjong/fork"><img alt="Issues" src="https://img.shields.io/github/fork/nkgw-marronnier/Mahjong?color=0088ff" /></a>
   <a href="https://github.com/nkgw-marronnier/Mahjong/issues"><img alt="Issues" src="https://img.shields.io/github/issues/nkgw-marronnier/Mahjong?color=0088ff" /></a>
   <a href="https://github.com/nkgw-marronnier/Mahjong/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nkgw-marronnier/Mahjong?color=0088ff" /></a>
 </p>
