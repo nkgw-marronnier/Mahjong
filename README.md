@@ -1,10 +1,11 @@
 # 簡易仮想麻雀 -Virtual Riichi Mahjong- :mahjong:
 
-HTML5 + Javascriptで動作する麻雀ゲーム. ルールは本家中国の麻将ではなく, 日本国内に於いて広く遊ばれている日本麻雀としている. 国際的には日本麻雀は立直麻雀(Riichi Mahjong)である. この麻雀ゲームはその日本麻雀のルールで動作するものであるので注意されたい.
+HTML5 + Javascriptで動作する麻雀ゲーム. ルールは本家中国の麻将ではなく, 日本国内に於いて広く遊ばれている日本麻雀としている. 国際的には日本麻雀は立直麻雀(Riichi Mahjong)である. この麻雀ゲームはその日本麻雀のルールで動作するものであるので注意されたい. 尚, 開発中且つ勉強中であるためにソースコードが煩雑かつ難解であるため後日一から作り直す予定.
 
 [簡易仮想麻雀 -Virtual Riichi Mahjong-はこちらから](https://nkgw-marronnier.github.io/Mahjong/mahjong.html)
 
 <p align="center">
+  <a href="https://codeclimate.com/github/nkgw-marronnier/Mahjong/maintainability"><img src="https://api.codeclimate.com/v1/badges/d7ef530d851ba3bda785/maintainability" /></a>
   <a href="https://github.com/nkgw-marronnier/Mahjong/issues"><img alt="Issues" src="https://img.shields.io/github/issues/nkgw-marronnier/Mahjong?color=0088ff" /></a>
   <a href="https://github.com/nkgw-marronnier/Mahjong/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/nkgw-marronnier/Mahjong?color=00ff88" /></a>
 </p>
